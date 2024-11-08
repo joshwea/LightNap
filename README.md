@@ -3,7 +3,7 @@
 LightNap (**light**weight .**N**ET Core/**A**ngular/**P**rimeNG) is a full stack starter kit designed to provide a boost to Single Page Applications (SPA). It includes built-in support for ASP.NET Core Identity, JWT token management, and administrative features for managing identity, offering a solid foundation to be extended for any application scenario.
 
 ## Features
-
+[the docs](https://lightnap.sharplogic.com).
 - **.NET Core Web API**: Backend services built with .NET Core.
 - **SQL Server**: A data provider implementation for SQL Server.
 - **ASP.NET Core Identity**: Out-of-the-box support for user authentication and authorization.
